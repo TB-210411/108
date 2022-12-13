@@ -1,0 +1,36 @@
+body{
+    font-family: fantasy;
+    background-position: center;
+  
+}
+.header_div{
+    background-color: aliceblue;
+    color: darkslateblue;
+}
+p{
+    color: indigo;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold !important;
+    letter-spacing: 3px;
+    background-color: teal !important ;
+}
+.footer{
+    position: fixed;
+    color: darkcyan;
+    background-color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px cyan;
+}
+h3, h4{
+    color: darkslateblue;
+}
